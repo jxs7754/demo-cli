@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/xihu/',
+  publicPath: '',
   outputDir: 'dist',
   assetsDir: '',
   proxy: {},
